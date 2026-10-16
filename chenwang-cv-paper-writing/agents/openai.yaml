@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chen Wang CV Paper Writing"
+  short_description: "Match Chen Wang's CV research-paper writing style"
+  default_prompt: "Use $chenwang-cv-paper-writing to draft or revise this CV paper passage in my research writing style."
